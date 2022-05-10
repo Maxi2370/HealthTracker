@@ -1,0 +1,8 @@
+# LIBRARY VERSIONS
+
+streamlit == 
+streamlit option menu ==
+pandas == 
+matplotlib == 
+Image ==
+
